@@ -5,16 +5,19 @@
 Developing innovative software solutions that make a real-world impact.
 Exploring the intersection of technology and entrepreneurship.
 Engaging with open-source projects, especially those involving Java, C++, Python, and web development technologies like HTML5 and JavaScript.
+
 🌱 I’m currently learning:
 
 Advanced techniques in full-stack development to enrich my web application projects.
 Cloud architectures, specifically AWS services, to build scalable and robust systems.
 Machine learning algorithms to enhance data-driven decision-making in software applications.
+
 💞️ I’m looking to collaborate on:
 
 Projects that aim to streamline business operations or enhance user experiences.
 Initiatives that leverage technology for social good or educational purposes.
 Any innovative idea that could benefit from a fresh perspective and enthusiastic programming expertise.
+
 📫 How to reach me:
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/roberto-aragon-84539ab0/
